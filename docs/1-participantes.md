@@ -5,8 +5,7 @@
 <tr><td>Coodenador do projeto</td><td>Rodrigo Batista de Souza</td></tr>
 <tr>
     <td>Analistas de sistemas</td>
-    <td>
-        Paulo Duarte<br>
+    <td>        
         Leonardo Sato<br>
     </td>
 </tr>
@@ -16,11 +15,11 @@
         Robson Bacarin<br>        
     </td>
 </tr>
-<tr><td>Arquiteto</td><td>[nome do arquiteto]</td></tr>
+<tr><td>Arquiteto</td><td>Guilherme Carmo</td></tr>
 <tr>
     <td>Programadores</td>
     <td>
-        Guilherme Carmo<br>        
+        Paulo Duarte<br>        
     </td>
 </tr>
 <tr>
