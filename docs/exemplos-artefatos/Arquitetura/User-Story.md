@@ -1,10 +1,9 @@
 # USER STORY
 
-* GARÇOM
+* GARÇOM:
 Como garçom eu gostaria de verificar se temos disponibilidade de mesa para atender o próximo cliente.
  
-Como garçom eu gostaria
- de verificar o estoque antes de oferecer o (prato/bebidas/lanches) para o cliente.
+Como garçom eu gostaria de verificar o estoque antes de oferecer o (prato/bebidas/lanches) para o cliente.
  
 Como garçom eu gostaria de verificar quais pratos estão saindo mais rápido no momento para informar ao cliente, caso ele pergunte.
  
@@ -15,14 +14,14 @@ Como garçom eu gostaria de registrar o pedido do cliente sem erros.
 Como garçom eu gostaria de saber o local exato do pedido, para não ficar circulando com o prato até localizar a mesa.
  
  
-* Entregador
+* Entregador:
 Como Boy eu gostaria de efetuar a entrega mais rápido possível para não deixar a comida esfriar
  
 Como Boy eu gostaria qual o melhor trajeto a ser tomado para evitar atrasos
  
 Como Boy eu gostaria de saber o valor exato a ser cobrado para evitar erros de caixa
  
-* Cozinheiro
+* Cozinheiro:
 Como cozinheiro eu gostaria de saber a ordem dos pedidos para o cliente não se sentir diferenciado.
  
 Como cozinheiro eu gostaria de saber o tempo que o cliente esta esperando o prato para não estourar o sla
@@ -35,7 +34,8 @@ Como cozinheiro eu gostaria de avisar o garçom que a comida está pronta para s
  
 Como cozinheiro eu gostaria  de avisar que o pedido XYZ de problema para que o garçom consiga remediar a situação.
  
-* Caixa
+ 
+* Caixa:
 Como caixa eu gostaria de receber a comanda contabilizada para ser mais rápido na cobrança.
 Como caixa eu gostaria de saber quanto o cliente tem de crédito (FIDELIDADE) para dar o devido desconto.
  
@@ -45,7 +45,8 @@ Como caixa eu gostaria de visualizar a quantidade de pedidos por dinheiro, cart�
  
 Como caixa eu gostaria de ter históricos de fechamentos dos dias anteriores para fechamento semanal/mensal/anual.
  
-* Gerente
+ 
+* Gerente:
 Como gerente eu gostaria de “controlar” o estoque para ter visibilidade de produtos em falta.
  
 Como gerente eu gostaria de ter permissão de alterar/dar desconto da comanda do caixa caso tenha cobrança indevida.
