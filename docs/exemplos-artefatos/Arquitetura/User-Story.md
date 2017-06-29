@@ -1,6 +1,7 @@
 # USER STORY
 
 * GARÇOM:</br>
+</br>
 Como garçom eu gostaria de verificar se temos disponibilidade de mesa para atender o próximo cliente.
  
 Como garçom eu gostaria de verificar o estoque antes de oferecer o (prato/bebidas/lanches) para o cliente.
@@ -15,6 +16,7 @@ Como garçom eu gostaria de saber o local exato do pedido, para não ficar circu
  
  
 * Entregador:</br>
+</br>
 Como Boy eu gostaria de efetuar a entrega mais rápido possível para não deixar a comida esfriar
  
 Como Boy eu gostaria qual o melhor trajeto a ser tomado para evitar atrasos
@@ -36,6 +38,7 @@ Como cozinheiro eu gostaria  de avisar que o pedido XYZ de problema para que o g
  
  
 * Caixa:</br>
+</br>
 Como caixa eu gostaria de receber a comanda contabilizada para ser mais rápido na cobrança.
 Como caixa eu gostaria de saber quanto o cliente tem de crédito (FIDELIDADE) para dar o devido desconto.
  
@@ -47,6 +50,7 @@ Como caixa eu gostaria de ter históricos de fechamentos dos dias anteriores par
  
  
 * Gerente:</br>
+</br>
 Como gerente eu gostaria de “controlar” o estoque para ter visibilidade de produtos em falta.
  
 Como gerente eu gostaria de ter permissão de alterar/dar desconto da comanda do caixa caso tenha cobrança indevida.
